@@ -1,8 +1,8 @@
 {
   "version": 1,
   "login": "jin-zhao-teh",
-  "seed": "#C96188",
-  "seedFromAvatar": true,
+  "seed": "#2BB3C0",
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
@@ -32,6 +32,10 @@
       {
         "icon": "code",
         "label": "TypeScript · Python"
+      },
+      {
+        "icon": "schedule",
+        "label": "GMT+13"
       }
     ]
   },
